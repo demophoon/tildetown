@@ -1,0 +1,35 @@
+html, body {
+    margin: 0px;
+    padding: 50px 10px 10px 20px;
+}
+
+body {
+    background-color: black;
+    color: #ffffff;;
+    font-family: courier, monospace;
+    font-size: 18px;
+}
+
+h1, h2, h3 {
+    font-weight: bold;
+}
+
+h1 {
+    font-size: 28px;
+}
+
+h2 {
+    font-size: 24px;
+}
+
+h3 {
+    font-size: 20px;
+}
+
+#header_canvas {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    margin: 0px;
+    padding: 0px;
+}
